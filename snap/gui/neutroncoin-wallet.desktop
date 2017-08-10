@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1.1
+Name=Neutron Wallet
+Comment=Cryptocurrency Wallet for Neutron
+Exec=neutroncoin-wallet
+Icon=${SNAP}/usr/share/neutron-wallet.png
+Terminal=false
+Type=Application
+Categories=Utilities;Application;
