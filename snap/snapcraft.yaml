@@ -2,13 +2,14 @@ name: neutroncoin-wallet
 version: '1.1.1'
 summary: Cryptocurrency Wallet for Neutron
 description: |
-  A Cryptocurrency that operates by Proof of Stake. Neutron is no longer mineable and requires no expensive
-  equipment to participate. By simply holding a balance in a open encrypted wallet you are awarded stakes in
-  per-portion to the amount you hold for verifying transactions and helping to keep the network secure.
-  You can earn additional coin's by participating in the "Nucleus Node" system which reward's participant's for
-  operating a node on the Neutron network. If you are an expert or only just getting started, Neutron is a safe,
-  green, and stable coin which allows you to store value digitally and generate income in NTRN based simply
-  on the amount you hold. It is easier than ever to buy, stake, & trade.
+ A Cryptocurrency that operates by Proof of Stake. Neutron is no longer minable and requires no 
+ expensive equipment to participate. By simply holding a balance in an open, encrypted wallet you 
+ are awarded stakes in proportion to the amount you hold for verifying transactions and helping 
+ to keep the network secure. You can earn additional coins by participating in the "Nucleus Node" 
+ system, which rewards participants for operating a node on the Neutron network. Whether you're an 
+ expert or only just getting started, Neutron is a safe, green, and stable coin which allows you to 
+ store value digitally and generate income in NTRN, based simply on the amount you hold. It is easier 
+ than ever to buy, stake, and trade.
 
 grade: stable
 confinement: classic
